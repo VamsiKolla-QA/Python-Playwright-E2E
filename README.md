@@ -22,11 +22,13 @@ cd SwagLabs-POM-E2E
 Windows
 ````
 python -m venv .venv
+
 .venv\Scripts\activate
 ````
 
 Mac/Linux
 ````
 python -m venv .venv
+
 source .venv/bin/activate
 ````
