@@ -2,7 +2,16 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
 # Virtual environments
 .venv/
 env/
 venv/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
